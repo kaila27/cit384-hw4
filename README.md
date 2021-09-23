@@ -1,1 +1,3 @@
-# cit384-hw4
+## lab instructions.txt
+
+start with that file
